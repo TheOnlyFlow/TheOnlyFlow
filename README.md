@@ -30,6 +30,6 @@
 </div>
 
 - 🔭 Trabalho atualmente com CSE
-- 🌱 Estudando React, React Native, JS, HTML e CSS
+- 🌱 Estudando React, JS, Python HTML e CSS
 - 👯 Busco contribuir e participar de forma responsável e ativa em equipes com fit cultural saudável e descontraído
 
