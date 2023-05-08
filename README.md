@@ -30,6 +30,6 @@
 </div>
 
 - 🔭 Trabalho atualmente com Quality Assurance
-- 🌱 Stack: Javascript, Cypress, Postman e Git
+- 🌱 Stack: Javascript, Git, Jira, SQL, Cypress, Postman, OpenTest e Cucumber
 - 👯 Busco contribuir e participar de forma responsável e ativa em equipes com fit cultural saudável e descontraído
 
