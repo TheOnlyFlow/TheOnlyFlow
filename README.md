@@ -29,7 +29,7 @@
  
 </div>
 
-- 🔭 Trabalho atualmente com CSE
-- 🌱 Estudando React, JS, Python, HTML e CSS
+- 🔭 Trabalho atualmente com Quality Assurance
+- 🌱 Stack: Javascript, Cypress, Postman e Git
 - 👯 Busco contribuir e participar de forma responsável e ativa em equipes com fit cultural saudável e descontraído
 
